@@ -1,4 +1,4 @@
-# 👋 Salut! Sunt [Numele tău]
+# 👋 Salut! Sunt Adi.
 
 **Full-Stack Developer** | **Cloud Enthusiast** | **InvoiceHUB Creator**
 
