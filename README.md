@@ -49,4 +49,6 @@
 
 **⭐ Star my repos if you find them useful!**
 
+![Profile Views](https://komarev.com/ghpvc/?username=28VYK&color=blueviolet)
+
 </div>
