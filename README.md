@@ -1,54 +1,40 @@
-# 👋 Salut! Sunt Adi
-
-**Full-Stack Developer** | **Cloud Architect** | **Tech Enthusiast**
-
----
-
-## 🛠️ Skills & Technologies
-
+<h1 align="center">Hi, I'm Adi</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,typescript,flask,gcp,docker,postgres,git" />
+  Cloud & Infrastructure Engineer | Tech Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,tailwind,supabase,stripe,nginx,github,vite" />
+  <a href="https://github.com/28VYK?tab=followers">
+    <img src="https://img.shields.io/github/followers/28VYK?label=Followers&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/28VYK?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge" alt="Repositories" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=28VYK&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-##  Let's Connect
+## About Me
 
-<div align="center">
+I enjoy building reliable cloud-native systems and modern web applications with clean architecture.
 
-<a href="https://www.linkedin.com/in/vichiriuc/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+- I focus on practical solutions, maintainable code, and steady technical growth.
 
-<a href="mailto:contact@invoicehub.tech">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+## Skills & Technologies
 
-<a href="https://invoicehub.tech" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,flask,gcp,kubernetes,docker,linux,terraform,bash,postgres,git,jira,github" alt="Skills" />
+</p>
 
-</div>
+## What I Build
 
----
-
-## � Quick Facts
-
-- ☕ **Coffee addict** - Fuel for coding
-- 🎵 **Music lover** - Always with headphones
-- 🏃‍♂️ **Runner** - Love long runs
-- 📚 **Tech explorer** - Learning daily
+- Cloud-ready backend services and APIs
+- Containerized workloads with Docker and Kubernetes
+- Full-stack web applications with modern JavaScript/TypeScript stacks
 
 ---
 
-<div align="center">
-
-**⭐ Star my repos if you find them useful!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=28VYK&color=blueviolet)
-
-</div>
+<p align="center">
+  If you like my work, feel free to star the repositories you find useful.
+</p>
