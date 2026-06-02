@@ -61,7 +61,7 @@ I am a passionate software engineer specializing in building high-availability, 
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=28VYK&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00e5ff&icon_color=0066ff&text_color=94a3b8&border_color=1f2937" alt="Adi's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=28VYK&show_icons=true&theme=tokyonight" alt="Adi's Github Stats" />
 </p>
 
 ---
