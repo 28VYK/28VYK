@@ -72,7 +72,7 @@ I am a passionate software engineer specializing in building high-availability, 
 A secure, high-performance proxy and interactive web interface for the USV Student Portal. Built with Next.js and styled using a premium Cyber-Ocean theme (dark mode, liquid transitions, dynamic analytics dashboards).
 
 * **Architecture**: Fully containerized environment using Docker & Docker Compose.
-* **Security & Optimization**: Reverse-proxied via Caddy, integrated with Tailscale VPN, featuring automatic connection pooling (HikariCP) and session health checks.
+* **Security & Network**: Reverse-proxied via Caddy (with TLS termination), utilizing an isolated OpenVPN sidecar container for secure university network access.
 * **Activity Tracking**: Embedded background loop for active session tracking and real-time state synchronization.
 
 ---
