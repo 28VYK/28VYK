@@ -19,7 +19,7 @@
 
 I am a passionate software engineer specializing in building high-availability, cloud-native backend systems, containerized workloads, and modern web applications with clean, decoupled architecture.
 
-- 🔭 **Active Project**: Developing and optimizing [USV Portal Proxy](https://github.com/28VYK/USV-PROXY) — a highly customized portal with dynamic session validation and active session tracking.
+- 🔭 **Featured Project**: Developed and optimized [USV Portal Proxy](https://github.com/28VYK/USV-PROXY) — a highly customized reverse proxy portal with dynamic session validation and active session tracking (now archived).
 - ⚡ **DevOps & Cloud**: Experienced with Docker orchestration, Kubernetes deployments, infrastructure automation via Terraform, and GCP cloud-native services.
 - 🛠️ **Philosophy**: Writing clean, self-documenting code and prioritizing the performance, reliability, and security of services in production.
 
@@ -68,9 +68,10 @@ I am a passionate software engineer specializing in building high-availability, 
 
 ### 🚀 Featured Project
 
-#### 🌐 [USV Portal Proxy](https://github.com/28VYK/USV-PROXY)
+#### 🌐 [USV Portal Proxy](https://github.com/28VYK/USV-PROXY) *(Archived / Proof of Concept)*
 A secure, high-performance proxy and interactive web interface for the USV Student Portal. Built with Next.js and styled using a premium Cyber-Ocean theme (dark mode, liquid transitions, dynamic analytics dashboards).
 
+* **Status**: Permanently archived at the request of the university after reaching 1,000+ active student users. Kept public as a Proof of Concept (PoC) portfolio project.
 * **Architecture**: Fully containerized environment using Docker & Docker Compose.
 * **Security & Network**: Reverse-proxied via Caddy (with TLS termination), utilizing an isolated OpenVPN sidecar container for secure university network access.
 * **Activity Tracking**: Embedded background loop for active session tracking and real-time state synchronization.
