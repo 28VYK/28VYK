@@ -71,7 +71,7 @@ I am a passionate software engineer specializing in building high-availability, 
 #### 🌐 [USV Portal Proxy](https://github.com/28VYK/USV-PROXY) *(Archived / Proof of Concept)*
 A secure, high-performance proxy and interactive web interface for the USV Student Portal. Built with Next.js and styled using a premium Cyber-Ocean theme (dark mode, liquid transitions, dynamic analytics dashboards).
 
-* **Status**: Permanently archived at the request of the university after reaching 1,000+ active student users. Kept public as a Proof of Concept (PoC) portfolio project.
+* **Status**: Permanently archived at the request of the university after serving **40,000+ unique visitors** and **3.1+ million HTTP requests** in a single month (with peaks of 3,700+ daily active users). Kept public as a Proof of Concept (PoC) portfolio project.
 * **Architecture**: Fully containerized environment using Docker & Docker Compose.
 * **Security & Network**: Reverse-proxied via Caddy (with TLS termination), utilizing an isolated OpenVPN sidecar container for secure university network access.
 * **Activity Tracking**: Embedded background loop for active session tracking and real-time state synchronization.
